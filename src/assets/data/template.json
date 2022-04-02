@@ -1,0 +1,1155 @@
+ [
+        {
+
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+            "vote_average": 8.3,
+            "vote_count": 9319,
+            "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+            "release_date": "2021-12-15",
+            "title": "Spider-Man: No Way Home",
+            "id": 634649,
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+            "category":"Netflix Originals"
+        },
+        {
+            "vote_average": 8.0,
+            "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+            "release_date": "2022-03-01",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg",
+            "vote_count": 1582,
+            "title": "The Batman",
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+            "id": 414906,
+            "category":"Netflix Originals"
+        },
+        {
+            "overview": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.",
+            "release_date": "2022-03-11",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/ewUqXnwiRLhgmGhuksOdLgh49Ch.jpg",
+            "vote_count": 233,
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg",
+            "id": 696806,
+            "vote_average": 7.0,
+            "title": "The Adam Project",
+            "category":"Netflix Originals"
+        },
+        {
+            "vote_average": 7.6,
+            "id": 508947,
+            "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
+            "release_date": "2022-03-10",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
+            "vote_count": 177,
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+            "title": "Turning Red",
+            "category":"Netflix Originals"
+        },
+        {
+            "poster_path": "https://image.tmdb.org/t/p/original/aq4Pwv5Xeuvj6HZKtxyd23e6bE9.jpg",
+            "vote_average": 7.0,
+            "overview": "As a collection of history's worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.",
+            "release_date": "2021-12-22",
+            "vote_count": 1895,
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/oQPbZ5e6J9fuAyv4Gl0mMZMIyPI.jpg",
+            "id": 476669,
+            "title": "The King's Man",
+            "original_language": "en",
+            "category":"Netflix Originals"
+        },
+        {
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/kZNHR1upJKF3eTzdgl5V8s8a4C3.jpg",
+            "vote_average": 6.8,
+            "overview": "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.",
+            "release_date": "2022-01-12",
+            "vote_count": 887,
+            "title": "Scream",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
+            "id": 646385,
+            "category":"Netflix Originals"
+        },
+        {
+            "overview": "Travis Block is a shadowy Government agent who specializes in removing operatives whose covers have been exposed. He then has to uncover a deadly conspiracy within his own ranks that reaches the highest echelons of power.",
+            "release_date": "2022-02-10",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/2hGjmgZrS1nlsEl5PZorn7EsmzH.jpg",
+            "title": "Blacklight",
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/1KHoDh6NW8SWOJu8JnFe6wWaMD3.jpg",
+            "vote_count": 110,
+            "vote_average": 5.2,
+            "id": 823625,
+            "category":"Netflix Originals"
+        },
+        {
+            "overview": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+            "id": 511809,
+            "title": "West Side Story",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/exnFsbb9c3fDutTsgtJSWcDmZm0.jpg",
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+            "vote_count": 609,
+            "vote_average": 7.3,
+            "release_date": "2021-12-08",
+            "category":"Netflix Originals"
+        },
+        {
+            "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+            "first_air_date": "2019-06-16",
+            "title": "Euphoria",
+            "backdrop_path": "https://image.tmdb.org/t/p/original/oKt4J3TFjWirVwBqoHyIvv5IImd.jpg",
+            "original_language": "en",
+            "vote_count": 7330,
+            "original_name": "Euphoria",
+            "origin_country": [
+                "US"
+            ],
+            "id": 85552,
+            "vote_average": 8.4,
+            "poster_path": "https://image.tmdb.org/t/p/original/jtnfNzqZwN4E32FGGxx1YZaBWWf.jpg",
+            "media_type": "tv",
+            "category":"Netflix Originals"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/8T7SS4jU7TmtqrUr45JgZASCTUP.jpg",
+            "release_date": "2022-02-17",
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/zHQy4h36WwuCetKS7C3wcT1hkgA.jpg",
+            "vote_average": 7.8,
+            "title": "Dog",
+            "vote_count": 54,
+            "overview": "An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend's funeral.",
+            "id": 626735,
+            "category":"Netflix Originals"
+        },
+        {
+            "original_language": "en",
+            "first_air_date": "2022-02-25",
+            "poster_path": "https://image.tmdb.org/t/p/original/izIMqapegdEZj0YVDyFATPR8adh.jpg",
+            "vote_average": 8.3,
+            "overview": "In this sequel to \"Vikings,\" a hundred years have passed and a new generation of legendary heroes arises to forge its own destiny — and make history.",
+            "original_name": "Vikings: Valhalla",
+            "origin_country": [
+                "US"
+            ],
+            "vote_count": 83,
+            "id": 116135,
+            "title": "Vikings: Valhalla",
+            "backdrop_path": "https://image.tmdb.org/t/p/original/k47JEUTQsSMN532HRg6RCzZKBdB.jpg",
+            "media_type": "tv",
+            "category":"Netflix Originals"
+        },
+        {
+            "vote_average": 7.1,
+            "overview": "An ambitious carnival man with a talent for manipulating people with a few well-chosen words hooks up with a female psychiatrist who is even more dangerous than he is.",
+            "release_date": "2021-12-02",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/g0YNGpmlXsgHfhGnJz3c5uyzZ1B.jpg",
+            "vote_count": 994,
+            "title": "Nightmare Alley",
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg",
+            "id": 597208,
+            "category":"Netflix Originals"
+        },
+        {
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/6FSGYvPEhIx3ThOikGqHmKxeyNN.jpg",
+            "vote_average": 7.0,
+            "overview": "In 1909, two explorers fight to survive after they're left behind while on a Denmark expedition in ice-covered Greenland.",
+            "release_date": "2022-02-10",
+            "vote_count": 142,
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/bnMKMhGJuvELSjRp8KpkuDsBDw2.jpg",
+            "title": "Against the Ice",
+            "id": 836009,
+            "category":"Netflix Originals"
+        },
+        {
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+            "vote_average": 7.7,
+            "overview": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
+            "release_date": "2021-11-24",
+            "vote_count": 5225,
+            "title": "Encanto",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+            "id": 568124,
+            "category":"Netflix Originals"
+        },
+        {
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+            "vote_average": 6.8,
+            "overview": "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix.",
+            "release_date": "2021-12-16",
+            "vote_count": 3223,
+            "title": "The Matrix Resurrections",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg",
+            "id": 624860,
+            "category":"Netflix Originals"
+        },
+        {
+            "overview": "Stranded at a rest stop in the mountains during a blizzard, a recovering addict discovers a kidnapped child hidden in a car belonging to one of the people inside the building which sets her on a terrifying struggle to identify who among them is the kidnapper.",
+            "release_date": "2022-02-25",
+            "id": 833425,
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/tAztR7AXEesMQAAi5ncFPSZtYlI.jpg",
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/5cnLoWq9o5tuLe1Zq4BTX4LwZ2B.jpg",
+            "vote_count": 202,
+            "vote_average": 6.5,
+            "title": "No Exit",
+            "category":"Netflix Originals"
+        },
+        {
+            "vote_average": 7.1,
+            "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.",
+            "release_date": "2022-02-10",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/cTTggc927lEPCMsWUsdugSj6wAY.jpg",
+            "vote_count": 737,
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/sqLowacltbZLoCa4KYye64RvvdQ.jpg",
+            "id": 335787,
+            "title": "Uncharted",
+            "category":"Netflix Originals"
+        },
+        {
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg",
+            "vote_average": 6.9,
+            "overview": "Frustrated by scrolling dating apps only to end up on lame, tedious dates, Noa takes a chance by giving her number to the awkwardly charming Steve after a produce-section meet-cute at the grocery store.",
+            "release_date": "2022-01-20",
+            "vote_count": 125,
+            "title": "Fresh",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/oVv5l6L5Wi5j3gd4P2vt0YvVMOg.jpg",
+            "id": 787752,
+            "category":"Suspense"
+        },
+        {
+            "vote_average": 8.2,
+            "id": 63333,
+            "title": "The Last Kingdom",
+            "backdrop_path": "https://image.tmdb.org/t/p/original/QbtctI8EzlhsyFDMUMyG3fli8B.jpg",
+            "vote_count": 1019,
+            "poster_path": "https://image.tmdb.org/t/p/original/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
+            "original_language": "en",
+            "overview": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home.",
+            "first_air_date": "2015-10-10",
+            "original_name": "The Last Kingdom",
+            "origin_country": [
+                "GB"
+            ],
+            "media_type": "tv",
+            "category":"Suspense"
+        },
+        {
+            "id": 95396,
+            "overview": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+            "title": "Severance",
+            "vote_count": 19,
+            "vote_average": 7.7,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
+            "original_language": "en",
+            "first_air_date": "2022-02-17",
+            "original_name": "Severance",
+            "origin_country": [
+                "US"
+            ],
+            "poster_path": "https://image.tmdb.org/t/p/original/lFf6LLrQjYldcZItzOkGmMMigP7.jpg",
+            "media_type": "tv",
+            "category":"Suspense"
+        },
+
+
+
+        {
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
+            "genre_ids": [
+                878
+            ],
+            "original_language": "en",
+            "original_title": "Eternals",
+            "poster_path": "https://image.tmdb.org/t/p/original/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg",
+            "vote_count": 4801,
+            "video": false,
+            "id": 524434,
+            "vote_average": 7.2,
+            "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
+            "release_date": "2021-11-03",
+            "title": "Eternals",
+            "popularity": 1481.698,
+            "media_type": "movie",
+            "category":"Suspense"
+        },
+        {
+            "backdrop_path": "https://image.tmdb.org/t/p/original/yvKrycViRMQcIgdnjsM5JGNWU4Q.jpg",
+            "genre_ids": [
+                10765,
+                16,
+                10759
+            ],
+            "title": "Attack on Titan",
+            "original_name": "進撃の巨人",
+            "origin_country": [
+                "JP"
+            ],
+            "poster_path": "https://image.tmdb.org/t/p/original/aiy35Evcofzl7hASZZvsFgltHTX.jpg",
+            "first_air_date": "2013-04-07",
+            "vote_average": 8.6,
+            "overview": "Several hundred years ago, humans were nearly exterminated by Titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest Titans. Flash forward to the present and the city has not seen a Titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a Colossal Titan that appears out of thin air. As the smaller Titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single Titan and take revenge for all of mankind.",
+            "vote_count": 4049,
+            "original_language": "ja",
+            "id": 1429,
+            "popularity": 231.177,
+            "media_type": "tv",
+            "category":"Suspense"
+        },
+        {
+            "release_date": "2022-01-06",
+            "id": 730047,
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/wbF4Vgv5Ab80YosIziAvun6Fdgq.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "original_language": "en",
+            "original_title": "Cyrano",
+            "poster_path": "https://image.tmdb.org/t/p/original/e4koV8iC2cCM57bqUnEnIL2a2zH.jpg",
+            "vote_count": 59,
+            "video": false,
+            "title": "Cyrano",
+            "vote_average": 6.4,
+            "overview": "A man ahead of his time, Cyrano de Bergerac dazzles whether with ferocious wordplay at a verbal joust or with brilliant swordplay in a duel. But, convinced that his appearance renders him unworthy of the love of a devoted friend, the luminous Roxanne, Cyrano has yet to declare his feelings for her—and Roxanne has fallen in love, at first sight, with Christian.",
+            "popularity": 113.548,
+            "media_type": "movie",
+            "category":"Suspense"
+        },
+        {
+            "overview": "In this sequel, influencers looking to breathe new life into a Texas ghost town encounter Leatherface, an infamous killer who wears a mask of human skin.",
+            "release_date": "2022-02-18",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/aTSA5zMWlVFTYBIZxTCMbLkfOtb.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "vote_count": 545,
+            "original_language": "en",
+            "original_title": "Texas Chainsaw Massacre",
+            "id": 632727,
+            "video": false,
+            "title": "Texas Chainsaw Massacre",
+            "vote_average": 5.1,
+            "poster_path": "https://image.tmdb.org/t/p/original/meRIRfADEGVo65xgPO6eZvJ0CRG.jpg",
+            "popularity": 1368.573,
+            "media_type": "movie",
+            "category":"Suspense"
+        },
+        {
+            "id": 60574,
+            "overview": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+            "title": "Peaky Blinders",
+            "vote_count": 5643,
+            "vote_average": 8.6,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/hI5h8o3bbZlZwnySEs6rL7pXH32.jpg",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "first_air_date": "2013-09-12",
+            "original_name": "Peaky Blinders",
+            "origin_country": [
+                "GB"
+            ],
+            "poster_path": "https://image.tmdb.org/t/p/original/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+            "popularity": 2355.664,
+            "media_type": "tv",
+            "category":"Suspense"
+        },
+        {
+            "genre_ids": [
+                10759,
+                18,
+                10765
+            ],
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg",
+            "vote_count": 12701,
+            "vote_average": 8.1,
+            "id": 1402,
+            "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+            "first_air_date": "2010-10-31",
+            "original_name": "The Walking Dead",
+            "origin_country": [
+                "US"
+            ],
+            "title": "The Walking Dead",
+            "backdrop_path": "https://image.tmdb.org/t/p/original/wvdWb5kTQipdMDqCclC6Y3zr4j3.jpg",
+            "popularity": 1661.759,
+            "media_type": "tv",
+            "category":"Suspense"
+        },
+        {
+            "backdrop_path": "https://image.tmdb.org/t/p/original/jQGdWUAtcAZBeqCCKZGqLPm0JVu.jpg",
+            "genre_ids": [
+                16,
+                10759
+            ],
+            "title": "The Boys Presents: Diabolical",
+            "original_language": "en",
+            "original_name": "The Boys Presents: Diabolical",
+            "origin_country": [
+                "US"
+            ],
+            "vote_average": 7.5,
+            "overview": "From some of the most unhinged and maniacal minds in Hollywood today comes this animated anthology series, a collection of irreverent and emotionally shocking animated short films. Each episode plunges elbow-deep into unseen crevices of The Boys Universe.",
+            "first_air_date": "2022-03-03",
+            "id": 152483,
+            "vote_count": 28,
+            "poster_path": "https://image.tmdb.org/t/p/original/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg",
+            "popularity": 219.3,
+            "media_type": "tv",
+            "category": "Drama"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/aBlHEkleZBIpyQAWlMtlpplDYsR.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                36
+            ],
+            "id": 650031,
+            "original_language": "da",
+            "original_title": "Skyggen i mit øje",
+            "overview": "On March 21st, 1945, the British Royal Air Force set out on a mission to bomb Gestapo's headquarters in Copenhagen. The raid had fatal consequences as some of the bombers accidentally targeted a school and more than 120 people were killed, 86 of whom were children.",
+            "poster_path": "https://image.tmdb.org/t/p/original/eqCdwVKvdmNTt8435cJqh2YX1My.jpg",
+            "release_date": "2021-10-28",
+            "title": "The Shadow In My Eye",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 23,
+            "popularity": 40.468,
+            "media_type": "movie",
+            "category": "Drama"
+        },
+        {
+            "genre_ids": [
+                878,
+                12
+            ],
+            "id": 438631,
+            "original_language": "en",
+            "original_title": "Dune",
+            "poster_path": "https://image.tmdb.org/t/p/original/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+            "video": false,
+            "vote_average": 7.9,
+            "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+            "release_date": "2021-09-15",
+            "vote_count": 6271,
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+            "title": "Dune",
+            "popularity": 432.367,
+            "media_type": "movie",
+            "category": "Drama"
+        },
+        {
+            "original_language": "en",
+            "original_name": "Pieces of Her",
+            "id": 99002,
+            "vote_average": 7.5,
+            "title": "Pieces of Her",
+            "overview": "An act of violence rocks a sleepy Georgia town as well as the bond between a mother and her daughter.",
+            "vote_count": 23,
+            "poster_path": "https://image.tmdb.org/t/p/original/yPTlbfrDv9asnHlCCd3XzM5noF1.jpg",
+            "backdrop_path": "https://image.tmdb.org/t/p/original/eF3pfdinIPjXz3IXqezlGMFmkPL.jpg",
+            "first_air_date": "2022-03-04",
+            "genre_ids": [
+                80,
+                9648,
+                18
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "popularity": 88.038,
+            "media_type": "tv",
+            "category": "Drama"
+        },
+        {
+            "overview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
+            "original_name": "鬼滅の刃",
+            "origin_country": [
+                "JP"
+            ],
+            "backdrop_path": "https://image.tmdb.org/t/p/original/iBAtBLqCMON3NPIjyQ1wdMbpTAk.jpg",
+            "id": 85937,
+            "genre_ids": [
+                16,
+                10765,
+                10759
+            ],
+            "first_air_date": "2019-04-06",
+            "original_language": "ja",
+            "poster_path": "https://image.tmdb.org/t/p/original/wrCVHdkBlBWdJUZPvnJWcBRuhSY.jpg",
+            "vote_count": 3695,
+            "vote_average": 8.8,
+            "title": "Demon Slayer: Kimetsu no Yaiba",
+            "popularity": 198.948,
+            "media_type": "tv",
+            "category": "Drama"
+        },
+        {
+            "poster_path": "https://image.tmdb.org/t/p/original/6SIDIB59JYsQ8EfUgM0IaFfwXtS.jpg",
+            "vote_average": 8.2,
+            "original_name": "Upload",
+            "origin_country": [
+                "US"
+            ],
+            "title": "Upload",
+            "vote_count": 718,
+            "overview": "In 2033, people who are near death can be “uploaded” into virtual reality hotels run by 6 tech firms. Cash-strapped Nora lives in Brooklyn and works customer service for the luxurious “Lakeview” digital afterlife. When L.A. party-boy/coder Nathan’s self-driving car crashes, his high-maintenance girlfriend uploads him permanently into Nora’s VR world.",
+            "backdrop_path": "https://image.tmdb.org/t/p/original/2fhnFgwbpqzhNsx5m9x7JEUQ2qv.jpg",
+            "id": 86248,
+            "genre_ids": [
+                35,
+                10765
+            ],
+            "first_air_date": "2020-04-30",
+            "original_language": "en",
+            "popularity": 210.787,
+            "media_type": "tv",
+            "category": "Drama"
+        },
+        {
+            "title": "The Pirates: The Last Royal Treasure",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/pwpw1veVNW2Sls5sGbA9mqMYN49.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                36
+            ],
+            "original_language": "ko",
+            "original_title": "해적: 도깨비 깃발",
+            "poster_path": "https://image.tmdb.org/t/p/original/zAp8FqC4pLfqcsEfuHwQflCWsA5.jpg",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 48,
+            "overview": "A gutsy crew of Joseon pirates and bandits battle stormy waters, puzzling clues and militant rivals in search of royal gold lost at sea.",
+            "release_date": "2022-01-26",
+            "id": 591120,
+            "popularity": 1036.096,
+            "media_type": "movie",
+            "category": "Drama"
+        },
+        {
+            "video": false,
+            "id": 438695,
+            "overview": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
+            "release_date": "2021-12-01",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/tutaKitJJIaqZPyMz7rxrhb4Yxm.jpg",
+            "vote_count": 2218,
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                10402
+            ],
+            "vote_average": 8.2,
+            "original_language": "en",
+            "original_title": "Sing 2",
+            "poster_path": "https://image.tmdb.org/t/p/original/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+            "title": "Sing 2",
+            "popularity": 1314.79,
+            "media_type": "movie",
+            "category": "Drama"
+        },
+        {
+            "vote_average": 6.8,
+            "overview": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately…murder.",
+            "release_date": "2021-11-24",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/jdLsmpqmP1wTdFUPtmxMnYgoifT.jpg",
+            "vote_count": 1304,
+            "genre_ids": [
+                18,
+                80,
+                53
+            ],
+            "id": 644495,
+            "original_language": "en",
+            "original_title": "House of Gucci",
+            "poster_path": "https://image.tmdb.org/t/p/original/vHla3Ej2m53rNmvmYkzvennLrKn.jpg",
+            "title": "House of Gucci",
+            "video": false,
+            "popularity": 354.059,
+            "media_type": "movie",
+            "category": "Drama"
+        },
+        {
+            "id": 85949,
+            "first_air_date": "2020-01-23",
+            "vote_average": 7.3,
+            "overview": "Set twenty years after the events of Star Trek Nemesis, we follow the now-retired Admiral Picard into the next chapter of his life.",
+            "title": "Star Trek: Picard",
+            "vote_count": 1165,
+            "poster_path": "https://image.tmdb.org/t/p/original/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg",
+            "backdrop_path": "https://image.tmdb.org/t/p/original/mK286PAkhgLJqk5cO0BCmFLkNE7.jpg",
+            "original_name": "Star Trek: Picard",
+            "genre_ids": [
+                10765,
+                10759
+            ],
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "popularity": 152.732,
+            "media_type": "tv",
+            "category": "Drama"
+        },
+        {
+            "vote_average": 7.1,
+            "overview": "The story of Alana Kane and Gary Valentine growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+            "release_date": "2021-11-26",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/hB4ibOHXm1Xl0IbuYVioktDGUWJ.jpg",
+            "vote_count": 466,
+            "genre_ids": [
+                18,
+                35
+            ],
+            "video": false,
+            "original_language": "en",
+            "original_title": "Licorice Pizza",
+            "poster_path": "https://image.tmdb.org/t/p/original/7F8v5IzhgZSfyTSXpIxXE8d1u8v.jpg",
+            "id": 718032,
+            "title": "Licorice Pizza",
+            "popularity": 66.354,
+            "media_type": "movie",
+            "category": "Drama"
+        },
+        {
+            "vote_average": 5.9,
+            "overview": "When her best friend vanishes during a girls' trip to Croatia, Beth races to figure out what happened. But each clue yields another unsettling deception.",
+            "release_date": "2022-03-03",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/isBUqT3hGKvzIoiGcVzURh1EdvQ.jpg",
+            "vote_count": 162,
+            "genre_ids": [
+                53,
+                9648
+            ],
+            "video": false,
+            "original_language": "en",
+            "original_title": "The Weekend Away",
+            "poster_path": "https://image.tmdb.org/t/p/original/6MS0QEl7UK2gdFFbHfNwuYlsq4H.jpg",
+            "id": 840882,
+            "title": "The Weekend Away",
+            "popularity": 1114.854,
+            "media_type": "movie",
+            "category": "Thriller"
+        },
+        {
+            "vote_average": 6.3,
+            "overview": "A tech worker with agoraphobia discovers recorded evidence of a violent crime but is met with resistance when she tries to report it. Seeking justice, she must do the thing she fears the most: she must leave her apartment.",
+            "release_date": "2022-02-10",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/mruT954ve6P1zquaRs6XG0hA5k9.jpg",
+            "vote_count": 242,
+            "genre_ids": [
+                53
+            ],
+            "id": 800510,
+            "original_language": "en",
+            "original_title": "Kimi",
+            "poster_path": "https://image.tmdb.org/t/p/original/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg",
+            "title": "Kimi",
+            "video": false,
+            "popularity": 1621.576,
+            "media_type": "movie",
+            "category": "Thriller"
+        },
+        {
+            "vote_average": 7.7,
+            "overview": "When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
+            "release_date": "2021-11-11",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/EnDlndEvw6Ptpp8HIwmRcSSNKQ.jpg",
+            "vote_count": 2252,
+            "genre_ids": [
+                14,
+                35,
+                12
+            ],
+            "video": false,
+            "original_language": "en",
+            "original_title": "Ghostbusters: Afterlife",
+            "poster_path": "https://image.tmdb.org/t/p/original/sg4xJaufDiQl7caFEskBtQXfD4x.jpg",
+            "id": 425909,
+            "title": "Ghostbusters: Afterlife",
+            "popularity": 944.786,
+            "media_type": "movie",
+            "category": "Thriller"
+        },
+        {
+            "overview": "When his young daughter's beloved companion — an android named Yang — malfunctions, Jake searches for a way to repair him. In the process, Jake discovers the life that has been passing in front of him, reconnecting with his wife and daughter across a distance he didn't know was there.",
+            "release_date": "2022-03-04",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/mKTN7gPbMch75zyeu1kDaIqGqKr.jpg",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "vote_count": 23,
+            "original_language": "en",
+            "original_title": "After Yang",
+            "poster_path": "https://image.tmdb.org/t/p/original/qjEuDeKOhA7JqaaqhLSfoS9titb.jpg",
+            "video": false,
+            "id": 585378,
+            "vote_average": 7.3,
+            "title": "After Yang",
+            "popularity": 38.331,
+            "media_type": "movie",
+            "category": "Thriller"
+        },
+        {
+            "video": false,
+            "vote_average": 6.1,
+            "overview": "A group of top female agents from American, British, Chinese, Columbian and German  government agencies are drawn together to try and stop an organization from acquiring a deadly weapon to send the world into chaos.",
+            "release_date": "2022-01-05",
+            "vote_count": 322,
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/8pgKccb5PfE1kWB9qqiXJem83VC.jpg",
+            "title": "The 355",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 522016,
+            "original_language": "en",
+            "original_title": "The 355",
+            "poster_path": "https://image.tmdb.org/t/p/original/uQt2dJFMnJmAp9zLAWNfGilK0BW.jpg",
+            "popularity": 871.645,
+            "media_type": "movie",
+            "category": "Thriller"
+        },
+        {
+            "vote_average": 5.9,
+            "overview": "After going to extremes to cover up an accident, a corrupt cop's life spirals out of control when he starts receiving threats from a mysterious witness.",
+            "release_date": "2022-02-25",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/7CamWBejQ9JQOO5vAghZfrFpMXY.jpg",
+            "vote_count": 146,
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "video": false,
+            "original_language": "fr",
+            "original_title": "Sans répit",
+            "poster_path": "https://image.tmdb.org/t/p/original/9MP21x0OPv0R72obd63tMHssmGt.jpg",
+            "id": 928381,
+            "title": "Restless",
+            "popularity": 2261.57,
+            "media_type": "movie",
+            "category": "Thriller"
+        },
+        {
+            "video": false,
+            "vote_average": 6.8,
+            "overview": "Music superstars Kat Valdez and Bastian are getting married before a global audience of fans. But when Kat learns, seconds before her vows, that Bastian has been unfaithful, she decides to marry Charlie, a stranger in the crowd, instead.",
+            "release_date": "2022-02-09",
+            "id": 615904,
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/ilty8eu65u6vCJpyMva9ele8Qtm.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                10402
+            ],
+            "vote_count": 241,
+            "original_language": "en",
+            "original_title": "Marry Me",
+            "poster_path": "https://image.tmdb.org/t/p/original/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg",
+            "title": "Marry Me",
+            "popularity": 877.875,
+            "media_type": "movie",
+            "category": "Thriller"
+        },
+        {
+            "vote_average": 8.5,
+            "first_air_date": "2022-01-13",
+            "original_name": "Peacemaker",
+            "origin_country": [
+                "US"
+            ],
+            "title": "Peacemaker",
+            "backdrop_path": "https://image.tmdb.org/t/p/original/ctxm191q5o3axFzQsvNPlbKoSYv.jpg",
+            "genre_ids": [
+                10759,
+                10765,
+                18
+            ],
+            "original_language": "en",
+            "vote_count": 1378,
+            "id": 110492,
+            "poster_path": "https://image.tmdb.org/t/p/original/hE3LRZAY84fG19a18pzpkZERjTE.jpg",
+            "overview": "The continuing story of Peacemaker – a compellingly vainglorious man who believes in peace at any cost, no matter how many people he has to kill to get it – in the aftermath of the events of “The Suicide Squad.”",
+            "popularity": 820.266,
+            "media_type": "tv",
+            "category": "Thriller"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/r2GAjd4rNOHJh6i6Y0FntmYuPQW.jpg",
+            "genre_ids": [
+                12,
+                28,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "No Time to Die",
+            "poster_path": "https://image.tmdb.org/t/p/original/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 3646,
+            "overview": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+            "release_date": "2021-09-29",
+            "title": "No Time to Die",
+            "id": 370172,
+            "popularity": 455.019,
+            "media_type": "movie",
+            "category": "Thriller"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/lRbDyjI7HEaXxflFQbYpqHRGFBJ.jpg",
+            "genre_ids": [
+                9648,
+                80,
+                18,
+                53
+            ],
+            "id": 505026,
+            "original_language": "en",
+            "original_title": "Death on the Nile",
+            "overview": "Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champagne to fill the Nile. But his Egyptian vacation turns into a thrilling search for a murderer when a picture-perfect couple’s idyllic honeymoon is tragically cut short.",
+            "poster_path": "https://image.tmdb.org/t/p/original/oT4vRVzulbN72602tTPFCwotl7a.jpg",
+            "release_date": "2022-02-09",
+            "title": "Death on the Nile",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 579,
+            "popularity": 183.21,
+            "media_type": "movie",
+            "category": "Thriller"
+        },
+        {
+            "vote_average": 7.1,
+            "overview": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+            "release_date": "2021-09-30",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg",
+            "vote_count": 6579,
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "title": "Venom: Let There Be Carnage",
+            "original_language": "en",
+            "original_title": "Venom: Let There Be Carnage",
+            "poster_path": "https://image.tmdb.org/t/p/original/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg",
+            "id": 580489,
+            "video": false,
+            "popularity": 1244.181,
+            "media_type": "movie",
+            "category": "Comedy"
+        },
+        {
+            "id": 890656,
+            "vote_average": 5.4,
+            "overview": "A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok.",
+            "release_date": "2022-02-17",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/wMUPT99gw6IB9OVvC46rF8wHIRt.jpg",
+            "vote_count": 127,
+            "genre_ids": [
+                28,
+                80,
+                14
+            ],
+            "video": false,
+            "original_language": "en",
+            "original_title": "Fistful of Vengeance",
+            "poster_path": "https://image.tmdb.org/t/p/original/3cccEF9QZgV9bLWyupJO41HSrOV.jpg",
+            "title": "Fistful of Vengeance",
+            "popularity": 1522.538,
+            "media_type": "movie",
+            "category": "Comedy"
+        },
+        {
+            "vote_average": 8.4,
+            "id": 1399,
+            "title": "Game of Thrones",
+            "backdrop_path": "https://image.tmdb.org/t/p/original/suopoADq0k8YZr4dQXcU6pToj6s.jpg",
+            "vote_count": 17446,
+            "genre_ids": [
+                10765,
+                18,
+                10759
+            ],
+            "original_name": "Game of Thrones",
+            "origin_country": [
+                "US"
+            ],
+            "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+            "poster_path": "https://image.tmdb.org/t/p/original/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+            "first_air_date": "2011-04-17",
+            "original_language": "en",
+            "popularity": 603.678,
+            "media_type": "tv",
+            "category": "Comedy"
+        },
+        {
+            "title": "Tyler Perry's A Madea Homecoming",
+            "video": false,
+            "id": 845404,
+            "overview": "Madea's back - hallelujer! And she's not putting up with any nonsense as family drama erupts at her great-grandson's college graduation celebration.",
+            "release_date": "2022-02-25",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/7hzK0D7NGTy1MDJkWL9IQKrTmfq.jpg",
+            "vote_count": 44,
+            "genre_ids": [
+                35
+            ],
+            "vote_average": 6.9,
+            "original_language": "en",
+            "original_title": "Tyler Perry's A Madea Homecoming",
+            "poster_path": "https://image.tmdb.org/t/p/original/vzX5GNRTXsAltdU1tfASmZbzYmv.jpg",
+            "popularity": 565.64,
+            "media_type": "movie",
+            "category": "Comedy"
+        },
+        {
+            "backdrop_path": "https://image.tmdb.org/t/p/original/wAJQcqlZkLmtLFKohxMFrcEDUtw.jpg",
+            "genre_ids": [
+                10765,
+                18
+            ],
+            "id": 85723,
+            "poster_path": "https://image.tmdb.org/t/p/original/f6Xg4mTARZi2YDqAh3WwZuebcHO.jpg",
+            "original_name": "Raised by Wolves",
+            "origin_country": [
+                "US"
+            ],
+            "title": "Raised by Wolves",
+            "vote_count": 975,
+            "first_air_date": "2020-09-03",
+            "vote_average": 7.7,
+            "overview": "After Earth is ravaged by a great religious war, an atheistic android architect sends two of his creations, Mother and Father, to start a peaceful, godless colony on the planet Kepler-22b. Their treacherous task is jeopardized by the arrival of the Mithraic, a deeply devout religious order of surviving humans.",
+            "original_language": "en",
+            "popularity": 282.548,
+            "media_type": "tv",
+            "category": "Comedy"
+        },
+        {
+            "poster_path": "https://image.tmdb.org/t/p/original/oR0PM7hFDqY3kO12cLLQMKiJt8I.jpg",
+            "title": "Outlander",
+            "overview": "The story of Claire Randall, a married combat nurse from 1945 who is mysteriously swept back in time to 1743, where she is immediately thrown into an unknown world where her life is threatened. When she is forced to marry Jamie, a chivalrous and romantic young Scottish warrior, a passionate affair is ignited that tears Claire's heart between two vastly different men in two irreconcilable lives.",
+            "vote_count": 2001,
+            "original_name": "Outlander",
+            "origin_country": [
+                "US"
+            ],
+            "backdrop_path": "https://image.tmdb.org/t/p/original/lnEU5KKrpQNsDaxxjDHuzRRh8Zl.jpg",
+            "vote_average": 8.2,
+            "first_air_date": "2014-08-09",
+            "genre_ids": [
+                18,
+                10765
+            ],
+            "original_language": "en",
+            "id": 56570,
+            "popularity": 368.15,
+            "media_type": "tv",
+            "category": "Comedy"
+        },
+        {
+            "vote_average": 8.2,
+            "first_air_date": "2021-12-29",
+            "original_name": "The Book of Boba Fett",
+            "origin_country": [
+                "US"
+            ],
+            "title": "The Book of Boba Fett",
+            "backdrop_path": "https://image.tmdb.org/t/p/original/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg",
+            "genre_ids": [
+                10759,
+                10765
+            ],
+            "original_language": "en",
+            "vote_count": 1245,
+            "id": 115036,
+            "poster_path": "https://image.tmdb.org/t/p/original/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg",
+            "overview": "Legendary bounty hunter Boba Fett and mercenary Fennec Shand must navigate the galaxy’s underworld when they return to the sands of Tatooine to stake their claim on the territory once ruled by Jabba the Hutt and his crime syndicate.",
+            "popularity": 539.87,
+            "media_type": "tv",
+            "category": "Comedy"
+        },
+        {
+            "genre_ids": [
+                12,
+                878,
+                28
+            ],
+            "original_language": "en",
+            "original_title": "Avengers: Endgame",
+            "poster_path": "https://image.tmdb.org/t/p/original/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+            "id": 299534,
+            "video": false,
+            "vote_average": 8.3,
+            "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+            "release_date": "2019-04-24",
+            "vote_count": 20547,
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+            "title": "Avengers: Endgame",
+            "popularity": 220.338,
+            "media_type": "movie",
+            "category": "Comedy"
+        },
+        {
+            "first_air_date": "2017-05-02",
+            "overview": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+            "vote_count": 16162,
+            "vote_average": 8.3,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg",
+            "title": "Money Heist",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "original_name": "La Casa de Papel",
+            "origin_country": [
+                "ES"
+            ],
+            "id": 71446,
+            "poster_path": "https://image.tmdb.org/t/p/original/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+            "original_language": "es",
+            "popularity": 320.633,
+            "media_type": "tv",
+            "category": "Comedy"
+        },
+        {
+            "genre_ids": [
+                18
+            ],
+            "original_language": "en",
+            "original_title": "Belfast",
+            "poster_path": "https://image.tmdb.org/t/p/original/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg",
+            "video": false,
+            "id": 777270,
+            "vote_count": 458,
+            "overview": "Buddy is a young boy on the cusp of adolescence, whose life is filled with familial love, childhood hijinks, and a blossoming romance. Yet, with his beloved hometown caught up in increasing turmoil, his family faces a momentous choice: hope the conflict will pass or leave everything they know behind for a new life.",
+            "release_date": "2021-11-12",
+            "vote_average": 7.2,
+            "title": "Belfast",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/4KLlHifB1kgMtWl3YnY8JinOj65.jpg",
+            "popularity": 73.12,
+            "media_type": "movie",
+            "category": "Comedy"
+        },
+        {
+            "original_title": "ドライブ・マイ・カー",
+            "poster_path": "https://image.tmdb.org/t/p/original/xlEnJ6O2xIlcJPvo23PWUiiSS21.jpg",
+            "video": false,
+            "vote_average": 7.6,
+            "overview": "Yusuke Kafuku, a stage actor and director, still unable, after two years, to cope with the loss of his beloved wife, accepts to direct Uncle Vanja at a theater festival in Hiroshima. There he meets Misaki, an introverted young woman, appointed to drive his car. In between rides, secrets from the past and heartfelt confessions will be unveiled.",
+            "release_date": "2021-08-18",
+            "vote_count": 307,
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/original/esOyr2JE2mpvNpNZLqszRSnrnap.jpg",
+            "title": "Drive My Car",
+            "genre_ids": [
+                18
+            ],
+            "id": 758866,
+            "original_language": "ja",
+            "popularity": 62.02,
+            "media_type": "movie",
+            "category": "Comedy"
+        },
+        {
+            "vote_average": 7.2,
+            "overview": "Follow the voyages of Starfleet on their missions to discover new worlds and new life forms, and one Starfleet officer who must learn that to truly understand all things alien, you must first understand yourself.",
+            "vote_count": 1262,
+            "first_air_date": "2017-09-24",
+            "backdrop_path": "https://image.tmdb.org/t/p/original/kHwMIXsYNAg8eoJvj97F0LSlyDP.jpg",
+            "origin_country": [
+                "US"
+            ],
+            "genre_ids": [
+                10765,
+                10759
+            ],
+            "title": "Star Trek: Discovery",
+            "id": 67198,
+            "original_language": "en",
+            "poster_path": "https://image.tmdb.org/t/p/original/zh7GLsorxecv0D8d7QAVkQUe1ju.jpg",
+            "original_name": "Star Trek: Discovery",
+            "popularity": 233.163,
+            "media_type": "tv",
+            "category": "Comedy"
+        },
+        {
+            "genre_ids": [
+                10759,
+                35,
+                16
+            ],
+            "original_language": "ja",
+            "poster_path": "https://image.tmdb.org/t/p/original/dum1wnm6kJOUos0XJqjB8s2UWi9.jpg",
+            "vote_count": 2807,
+            "original_name": "ワンピース",
+            "origin_country": [
+                "JP"
+            ],
+            "overview": "Years ago, the fearsome pirate king Gol D. Roger was executed, leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new pirate king. Monkey D. Luffy, a boy who consumed a \"Devil's Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way. Luffy will do anything to get the One Piece and become King of the Pirates!",
+            "vote_average": 8.8,
+            "title": "One Piece",
+            "id": 37854,
+            "first_air_date": "1999-10-20",
+            "backdrop_path": "https://image.tmdb.org/t/p/original/a6ptrTUH1c5OdWanjyYtAkOuYD0.jpg",
+            "popularity": 118.388,
+            "media_type": "tv",
+            "category": "Comedy"
+        }
+    ]
